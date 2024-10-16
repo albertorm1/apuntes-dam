@@ -144,7 +144,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "apuntes-dam"
+baseurl: "_site/apuntes-dam"
 
 # ------------ The following options are not recommended to be modified ------------------
 
