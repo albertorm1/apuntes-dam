@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://albertorm1.github.io/apuntes-dam"
+url: "https://albertorm1.github.io/"
 
 social:
   # Change to your full name.
@@ -144,7 +144,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://albertorm1.github.io/apuntes-dam"
+baseurl: "apuntes-dam"
 
 # ------------ The following options are not recommended to be modified ------------------
 
