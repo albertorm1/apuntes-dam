@@ -1,0 +1,51 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/apuntes-dam/</id>
+  <title>Apuntes 2º DAM</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-10-16T12:56:06+02:00</updated>
+  <author>
+    <name></name>
+    <uri>http://localhost:4000/apuntes-dam/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/apuntes-dam/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="es-ES"
+    href="http://localhost:4000/apuntes-dam/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024  </rights>
+  <icon>apuntes-dam/assets/img/favicons/favicon.ico</icon>
+  <logo>apuntes-dam/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Manejo de ficheros en Java</title>
+    <link href="http://localhost:4000/apuntes-dam/posts/AccDat-Ficheros/" rel="alternate" type="text/html" title="Manejo de ficheros en Java" />
+    <published>2024-10-09T00:00:00+02:00</published>
+  
+    <updated>2024-10-09T00:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/apuntes-dam/posts/AccDat-Ficheros/</id>
+    <content src="http://localhost:4000/apuntes-dam/posts/AccDat-Ficheros/" />
+    <author>
+      <name>alberto</name>
+    </author>
+
+  
+    
+    <category term="Ficheros" />
+    
+  
+
+  <summary>Introducción
+
+Un fichero o archivo es un conjunto de bits almacenados en un dispositivo. Estos bits contienen información que posteriormente puede ser leída por un programa, lo que permite operar con los datos que contiene.
+
+Para operar con los ficheros en java, es decir, crearlos, leerlos, editarlos y borrarlos, exiten una serie de clases que pueden ser de gran utilidad. La primera de ellas es...</summary>
+
+  </entry>
+
+</feed>
+
+
