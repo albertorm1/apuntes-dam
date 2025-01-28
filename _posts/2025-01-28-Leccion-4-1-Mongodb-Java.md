@@ -25,6 +25,7 @@ MongoDB es una base de datos **NoSQL** que almacena datos en formato **JSON/BSON
 MongoDB es una base de datos orientada a documentos que **no usa tablas ni SQL**. En lugar de ello, almacena datos en colecciones de documentos JSON/BSON.
 
 ### **Comparación entre MongoDB y Bases de Datos Relacionales**
+
 | Característica  | MongoDB                                               | SQL (MySQL, PostgreSQL)    |
 | --------------- | ----------------------------------------------------- | -------------------------- |
 | Modelo de datos | Documentos (JSON/BSON)                                | Tablas y filas             |
