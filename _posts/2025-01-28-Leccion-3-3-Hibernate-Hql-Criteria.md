@@ -29,6 +29,7 @@ En esta lección aprenderemos:
 HQL es un lenguaje de consulta orientado a objetos que permite recuperar datos en Hibernate utilizando nombres de entidades en lugar de nombres de tablas.
 
 ### **Diferencias entre HQL y SQL**
+
 | Característica          | HQL                            | SQL                          |
 | ----------------------- | ------------------------------ | ---------------------------- |
 | Basado en               | Clases y objetos de Java       | Tablas y columnas            |
