@@ -28,6 +28,7 @@ En esta lección aprenderemos:
 Las bases de datos relacionales utilizan claves foráneas para definir relaciones entre tablas. Hibernate nos permite modelar estas relaciones directamente en nuestras clases usando anotaciones.
 
 ### **Tipos de Relaciones**
+
 | Tipo                      | Descripción                                                                                    |
 | ------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Uno a Muchos (1:N)**    | Un registro en una tabla puede estar asociado con múltiples registros en otra tabla.           |
