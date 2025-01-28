@@ -67,7 +67,7 @@ public class BufferedWriteExample {
 ```
 
 ### **Diferencias Clave entre `FileReader/FileWriter` y `BufferedReader/BufferedWriter`**
-| Característica    | `FileReader` / `FileWriter` | `BufferedReader` / `BufferedWriter` |
+| Característica    | FileReader / FileWriter     | BufferedReader / BufferedWriter     |
 | ----------------- | --------------------------- | ----------------------------------- |
 | Lectura/Escritura | Carácter por carácter       | Línea por línea (más rápido)        |
 | Eficiencia        | Baja                        | Alta (usa buffers internos)         |
